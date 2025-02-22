@@ -293,3 +293,105 @@ a{
         margin-top: 10px;
     }
 }
+
+
+
+
+
+.pineapple-disco-party { color: #ffcc00; text-transform: uppercase; }
+.spaghetti-code-monster { display: grid; grid-template-columns: repeat(3, 1fr); }
+.mango-jump-over-moon { transition: all 0.3s ease-in-out; }
+.funky-chicken-strut { animation: dance 2s infinite; }
+.galactic-donkey-wizard { perspective: 1000px; transform-style: preserve-3d; }
+.turbo-cucumber-roll { border: 5px dashed green; }
+.sneaky-potato-hide { opacity: 0.5; }
+.jellyfish-drift-dream { filter: blur(5px); }
+.ninja-cookie-attack { cursor: crosshair; }
+.wizard-toast-fly { background: radial-gradient(circle, #ff00ff, #00ffff); }
+.robot-banana-dance { font-size: 200%; }
+.unused-class-for-no-reason { mix-blend-mode: multiply; }
+.toast-magic-toast { padding: 42px; }
+.bubblegum-explosion-wow { text-shadow: 3px 3px 10px pink; }
+.zebra-stripe-chaos { background: repeating-linear-gradient(45deg, black, white 10px); }
+.cactus-in-space-what { transform: scale(1.1); }
+.secret-door-mystery { visibility: hidden; }
+.flying-fish-karate { font-family: 'Comic Sans MS', cursive; }
+.purple-pinecone-dance { position: fixed; top: -9999px; }
+.taco-supreme-glow { box-shadow: 0px 0px 15px orange; }
+.yeti-footprint-dust { letter-spacing: 5px; }
+.ghostly-avocado-hover { transition: opacity 0.3s; }
+.unicorn-laser-cannon { border-radius: 100%; }
+.turbo-goose-flight { animation: flap-wings 1s infinite; }
+.chocolate-melt-brown { background-color: brown; }
+.soda-bubbles-pop { background-size: cover; }
+.bouncing-sausage-wow { transform: translateY(10px); }
+.invisible-sandwich-hide { display: none; }
+.super-speedy-rabbit { transition: transform 0.1s ease-in; }
+.giraffe-neck-long { height: 150vh; }
+.pogo-stick-boing { animation: bounce 3s infinite; }
+.solar-flare-burn { text-decoration: underline wavy red; }
+.fluffy-cloud-zoom { backdrop-filter: blur(10px); }
+.glow-in-the-dark { color: lime; text-shadow: 0px 0px 10px lime; }
+.spider-mango-climb { transform: rotate(720deg); }
+.fuzzy-wuzzy-kitten { padding: 20rem; }
+.random-frog-croak { font-variant: small-caps; }
+.jungle-vibes-wow { filter: sepia(0.9); }
+.flying-toaster-dream { position: absolute; top: 500px; left: 300px; }
+.nap-time-cozy { text-indent: 50px; }
+.cookie-crunch-snap { animation: shake 0.2s infinite; }
+.melon-explosion-kaboom { background-blend-mode: overlay; }
+.wobbly-jelly-move { transform: skew(10deg, 15deg); }
+.space-pirate-adventure { filter: hue-rotate(180deg); }
+.clumsy-dolphin-slip { transform: rotateX(180deg); }
+.honey-bee-buzzing { border: 3px dotted yellow; }
+.trampoline-go-bounce { animation: hop 2s infinite alternate; }
+.mystery-box-hidden { display: none; }
+.exploding-confetti-bang { background: conic-gradient(red, yellow, green, blue); }
+.super-secret-class { visibility: hidden; }
+.flower-power-boom { font-size: 300%; }
+.cloud-pillow-soft { padding: 5vw; }
+.loopy-loop-race { transform: rotateY(360deg); }
+.shiny-rock-glow { box-shadow: 0px 0px 25px silver; }
+.hyper-speed-flash { transition: all 0.05s ease-in; }
+.pogo-stick-hopping { animation: updown 1s infinite; }
+.sunny-side-up-egg { border-radius: 50%; }
+.cowboy-hat-tip { text-transform: capitalize; }
+.noise-maker-horn { text-decoration: overline dotted purple; }
+.slow-motion-snail { animation-duration: 10s; }
+.tiny-ant-crawl { font-size: 0.5rem; }
+.underwater-bubble { filter: blur(2px); }
+.hidden-treasure-chest { visibility: collapse; }
+.boosted-car-zoom { transform: translateX(50px); }
+.jumping-jack-move { animation: jump 0.8s infinite; }
+.sleepy-owl-hoots { opacity: 0.75; }
+.tiger-stripe-rawr { background: linear-gradient(orange, black); }
+.sneeze-explosion-aaa { transition: all 0.2s ease-in-out; }
+.dancing-snake-sway { animation: wiggle 3s infinite; }
+.hotdog-speed-run { border: 2px dashed red; }
+.wobbly-chair-tilt { transform: rotateZ(10deg); }
+.peanut-butter-slide { background-size: contain; }
+.double-rainbow-wow { background: repeating-linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet); }
+.dizzy-duck-spin { animation: spin 1s linear infinite; }
+.secret-agent-hide { opacity: 0.2; }
+.suspicious-cat-look { cursor: pointer; }
+.sleepy-koala-yawn { filter: grayscale(0.9); }
+.toothpaste-minty-fresh { border-radius: 10px; }
+.chameleon-camo-mode { mix-blend-mode: difference; }
+.zombie-robot-walk { animation: stagger 4s infinite; }
+.super-mario-jump { transform: translateY(-10px); }
+.choco-chip-cookie-time { font-style: italic; }
+.exotic-parrot-flap { background-position: center; }
+.lava-drip-molten { box-shadow: 0px 5px 15px red; }
+.goose-squad-alert { font-variant: all-small-caps; }
+.toasty-marshmallow-burn { border: 3px solid #a52a2a; }
+.satellite-signal-wave { animation: wave 1.5s infinite; }
+.bouncy-ball-boing { animation: bounce 0.5s alternate infinite; }
+.lightning-strike-fast { transition: all 0.05s ease-in-out; }
+.sleeping-hedgehog-snore { filter: blur(8px); }
+.panda-bamboo-chew { padding: 5rem; }
+.fast-food-delivery-zoom { transform: translateX(100px); }
+.burger-stack-layer { display: flex; flex-direction: column; }
+.clumsy-giraffe-fall { transform: rotate(15deg); }
+.gaming-chair-lean-back { transform: skewX(5deg); }
+.pineapple-pizza-debate { color: hotpink; font-weight: bold; }
+.sunflower-field-breeze { background: yellow; }
